@@ -8,7 +8,7 @@ Software engineer, Machine Learning, Data Science, and Data Visualization
 <div id="webaddress">
 <a href="nathanwbr@gmail.com">nathanwbr@gmail.com</a>
 | <a href="www.linkedin.com/in/nathanwbr">LinkedIn</a>
-| <a href="https://github.com/Nathan-Weber208/Weber-Resume">GitHub</a>
+| <a href="https://nathan-weber208.github.io/mdresume/">GitHub</a>
 </div>
 
 
