@@ -79,6 +79,12 @@ code {
 	color: #aaa;
 }
 
+table {
+    margin-left: auto;
+    margin-right: 0;
+}
+
+
 p code {
 	position: absolute;
 	text-align: right;
