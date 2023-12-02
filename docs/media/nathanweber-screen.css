@@ -63,7 +63,7 @@ body {
 	margin-left: 1em;
 }
 
-p {
+p, table {
 	position: relative;
 	left: 25%;
 	margin-bottom: 0.7em;
@@ -83,6 +83,12 @@ p code {
 	position: absolute;
 	text-align: right;
 	right: -20%;
+}
+
+table code {
+    position: absolute;
+    text-align: right;
+    right: -20%;
 }
 
 
