@@ -22,6 +22,8 @@ __Brigham Young University - Idaho__, Rexburg, ID
 
 
 ## Tools
+
+<p>
 <table>
   <tr>
     <th>Advanced Skills</th>
@@ -44,7 +46,7 @@ __Brigham Young University - Idaho__, Rexburg, ID
     <td>Linux servers</td>
   </tr>
 </table>
-
+</p>
 
 ## Related Experience
 
