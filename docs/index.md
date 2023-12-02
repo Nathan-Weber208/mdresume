@@ -22,12 +22,28 @@ __Brigham Young University - Idaho__, Rexburg, ID
 
 
 ## Tools
-| Advanced Skills | Competent Skills |
-| --- | --- |
-| Python | R (Statistics Computing language) |
-| CSS, HTML, JavaScript | Excel/Google Sheets Macros |
-| SQL, API/Webhooks | Autodesk (C.A.D.) |
-| Machine Learning | Linux servers |
+<table>
+  <tr>
+    <th>Advanced Skills</th>
+    <th>Competent Skills</th>
+  </tr>
+  <tr>
+    <td>Python</td>
+    <td>R (Statistics Computing language)</td>
+  </tr>
+  <tr>
+    <td>CSS, HTML, JavaScript</td>
+    <td>Excel/Google Sheets Macros</td>
+  </tr>
+  <tr>
+    <td>SQL, API/Webhooks</td>
+    <td>Autodesk (C.A.D.)</td>
+  </tr>
+  <tr>
+    <td>Machine Learning</td>
+    <td>Linux servers</td>
+  </tr>
+</table>
 
 
 ## Related Experience
