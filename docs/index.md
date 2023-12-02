@@ -1,89 +1,95 @@
 ---
 layout: cv
-title: Brigham Young's Resume
+title: Nathan Weber's Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+# Nathan Weber
+Software engineer, Machine Learning, Data Science, and Data Visualization
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
+<a href="nathanwbr@gmail.com">nathanwbr@gmail.com</a>
+| <a href="www.linkedin.com/in/nathanwbr">LinkedIn</a>
+| <a href="https://github.com/Nathan-Weber208/Weber-Resume">GitHub</a>
 </div>
 
-<!-- https://www.monique.tech/the-art-of-markdown -->
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
-
-- Full academic scholarship with 4.0 GPA
-
-`Expected 2029`
+`2018-2023`
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- 4.0 Major GPA
+- 3.4 Major GPA
+
+
+
+## Tools
+| Advanced Skills | Competent Skills |
+| --- | --- |
+| Python | R (Statistics Computing language) |
+| CSS, HTML, JavaScript | Excel/Google Sheets Macros |
+| SQL, API/Webhooks | Autodesk (C.A.D.) |
+| Machine Learning | Linux servers |
 
 
 ## Related Experience
 
-### Internships
+### Internship
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+`April-September 2023`
+__Bertelsen Education__, Boise, ID
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+- Wrote base code for and currently maintain a secure server holding and automatically updating account information for over 7K users
+- Created automations for purchases, Emails, transcripts, and other previously manually executed tasks
+- Used backend API/Webhooks for Freshdesk, Stripe, Learnworlds, Google Docs, and other Google services
 
-### Data Science Lead
+### Cleanroom Technician
 
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
+`August-Sepember 2022`
+__Micron__, Boise, ID
 
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
+- Had a hand in cleaning and preparing Micron’s 2022 semiconductor fabs during construction
+- Monitored particulate levels and cleaned during fab construction and communicated these needs with the others in my team
 
-`September 2027 - April 2028`
-__Good2Go__, Consultant
+### Fraud Resolution Specialist
 
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
+`February-December 2017`
+__Capital One__, Boise, ID
 
-### Data Science Consulting Team
-
-`January 2027 - April 2027`
-__Imagine Learning__
-
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
+- Determined which party was to be liable for fraudulent charges while communicating that decision with the merchant or cardholder
+- Wrote daily documentation regularly subpoenaed by courts and maintained strict regulation on note taking protocol
 
 
-## Service and Work History
+## Explorative Projects
 
-`2025-2027`
-__Math Tutor__, LDSBC
+### F.I.R.S.T. Robotics Competition
+
+`2011-2016`
+__Head of Design (VERN Robotics)__, Boise, ID
+
+- Spoke publicly on behalf of VERN to the Middleton and Wilder City Councils to receive funding for the team
+- Mentored for VERN and gave presentations to middle schools in Caldwell and Nampa to invite more members and to encourage STEM in my community
+- Designed 3 year’s robots in Autodesk Inventor and drove during 3 year’s competitions
 
 
-`2023-2025`
-__Service Missionary__, South Africa
+## Volunteer Experience
+
+### Service Missionary
+
+`2019-2021`
+__The Church of Jesus Christ of Latter-day Saints__, San Bernardino, CA
+
+- Spoke Spanish and English to teach and serve the people of San Bernardino
+- Organized and led a group of 10-15 missionaries in the San Bernardino area
+- Taught and trained other missionaries in Spanish and English
+
+### Eagle Scout
+
+`2010-Present`
+__Troop 216__, Middleton, ID
+
+- Led a project to gather 2 tons of gleaned potatoes for 3 local food banks. This project took over 60 volunteers.
 
 
 
-<!-- ### Footer
-
-Last updated: May 2013 -->
+<!--Last updated: December 2023 -->
 
 
