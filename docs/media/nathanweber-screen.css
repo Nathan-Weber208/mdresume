@@ -6,28 +6,6 @@
 
 
 
-/* nathanweber-screen.css */
-table {
-    width: 100%;
-    border-collapse: collapse;
-    margin: 20px 0;
-}
-
-table th, table td {
-    border: 1px solid #000;
-    padding: 10px;
-    text-align: left;
-}
-
-table th {
-    background-color: #f8f8f8;
-    font-weight: bold;
-}
-
-
-
-
-
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
